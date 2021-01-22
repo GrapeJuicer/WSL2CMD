@@ -16,7 +16,9 @@ Use "make" command to install this tool.
 
 like this,
 
-```$ make```
+```
+$ make
+```
 
 Move executable file named "@" to pathed dir.
 
