@@ -8,11 +8,11 @@ This is a tool you can use CMD commands on WSL.
 
 This tool produces env you can you CMD easier.
 
-This tool replace "[wsl2cmd] ARGS ..." to "cmd.exe /C ARGS ..."
+This tool replace `[wsl2cmd] ARGS ...` to `cmd.exe /C ARGS ...`
 
 ## Installation
 
-Use "make" command to install this tool.
+Use `make` command to install this tool.
 
 like this,
 
@@ -20,7 +20,7 @@ like this,
 $ make
 ```
 
-Move executable file named "@" to pathed dir.
+Move executable file named `@` to pathed dir.
 
 ## Usage
 
@@ -42,6 +42,7 @@ $ @ sort < nums.txt`
 
 # Contact
 
+|item|contents|
 |:---:|:---|
 |Dev|GrapeJuice|
 |Mail|Dev.Grape@outlook.jp|
