@@ -16,7 +16,7 @@ Use "make" command to install this tool.
 
 like this,
 
-`$ make`
+```$ make```
 
 Move executable file named "@" to pathed dir.
 
@@ -24,19 +24,19 @@ Move executable file named "@" to pathed dir.
 
 Like this,
 
-`$ @ echo CMD here !`
-
-`$ @ `ipconfig /all`
-
-`$ @ cd "C:\Program Files\"`
+```
+$ @ echo CMD here !
+$ @ `ipconfig /all
+$ @ cd "C:\Program Files\"
+```
 
 If you want to use "pipe" or "redirect", use like this,
 
-`$ @ dir "|" find Program`
-
-`$ @ echo Hello CMD ! ">" hello.txt`
-
-`$ @ sort < nums.txt`
+```
+$ @ dir "|" find Program
+$ @ echo Hello CMD ! ">" hello.txt
+$ @ sort < nums.txt`
+```
 
 # Contact
 
